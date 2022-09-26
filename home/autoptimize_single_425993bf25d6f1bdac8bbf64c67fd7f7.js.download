@@ -1,0 +1,1 @@
+(function($){$(document).ready(function(){const ticker=new Swiper('.ticker-wrap.swiper',{centeredSlides:true,speed:10000,autoplay:{delay:1,},loop:true,slidesPerView:'auto',allowTouchMove:false,disableOnInteraction:true});});})(jQuery);
